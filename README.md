@@ -6,7 +6,7 @@ On the other hand, it verifies attached signature and guarantees mail content is
 Usage
 =====
 
-Run SignedMailSender and SignedMailReader under the com.crypto.mail.signature package. 
+Run SignedMailSender and SignedMailReader under the com.crypto.mail.signature package. Please change username and password variables in the both programs.
 
 License
 =======
