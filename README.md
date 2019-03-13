@@ -1,4 +1,5 @@
-# digitally-signed-mails
+# Digitally Signed Mails
+
 This project attaches digital signature of mail content while sending mails. 
 
 On the other hand, it verifies attached signature and guarantees mail content is unchanged and unmodified while reading mails.
@@ -11,11 +12,5 @@ Run SignedMailSender and SignedMailReader under the com.crypto.mail.signature pa
 License
 =======
 
-Copyright 2016 Sefik Ilkin Serengil
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
+This repository is licensed under the MIT License - see [LICENSE](https://github.com/serengil/digitally-signed-mails/blob/master/LICENSE) for more details.
 
